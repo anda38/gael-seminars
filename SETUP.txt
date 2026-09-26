@@ -1,0 +1,11 @@
+Quick setup
+
+1. Create a GitHub repo named `gael-seminars`.
+2. Upload/push all files from this folder.
+3. In GitHub: Settings → Actions → General → Workflow permissions → Read and write permissions.
+4. Run the workflow once manually from Actions.
+5. Subscribe your calendar app to:
+   https://raw.githubusercontent.com/anda38/gael-seminars/main/seminars.ics
+
+Every event contains the annual GAEL programme link. When an individual seminar page exists,
+the event also links to that page and uses the real talk title.
