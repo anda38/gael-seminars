@@ -1,7 +1,391 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//gael-seminars//GAEL Seminar Calendar//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:GAEL Seminars
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Paul DUTRONC-POSTEL\nÉtablissement : Institut des politiques publiques (IPP) – PSE\nMots-clés : économétrie appliquée\, fiscalité des ménages\, environnement (climat\, émissions carbone) et inégalités femmes-hommes dans l'entreprise\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20260903T091500Z
+SUMMARY:GAEL — économétrie appliquée\, fiscalité des ménages\, environnement (climat\, émissions carbone) et inégalités femmes-hommes dans l'entreprise
+UID:57812e6e89ce02c728f9e24a@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Séminaire Doctorants\nÉtablissement : GAEL\nMots-clés : plus d'information à venir\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/doctorants-en-economie-lenergie-se-reunissent-nouveau-grenoble
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261215T101500Z
+SUMMARY:GAEL — Séminaire Doctorants
+UID:b361f722af6754cdb3e1992c@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/doctorants-en-economie-lenergie-se-reunissent-nouveau-grenoble
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Ambre ELSAS-NICOLLE\nÉtablissement : Ecole des Mines\nMots-clés : analyse des politiques publiques et souveraineté numérique\, demande des services mobiles et des plateformes\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270204T101500Z
+SUMMARY:GAEL — analyse des politiques publiques et souveraineté numérique\, demande des services mobiles et des plateformes
+UID:a8109989b52f648db1e7a43f@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Emmanuelle LAVAINE\nÉtablissement : Université de Montpellier\, CEE-M\nMots-clés : santé\, pollution atmosphérique et externalités de la production énergétique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261203T101500Z
+SUMMARY:GAEL — santé\, pollution atmosphérique et externalités de la production énergétique
+UID:eabfab12c8f055fec488a123@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Laurent LINNEMER\nÉtablissement : ENSAE\nMots-clés : microéconomie\, théorie de la concurrence imparfaite\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261015T091500Z
+SUMMARY:GAEL — microéconomie\, théorie de la concurrence imparfaite
+UID:15e653d7740e62cbe5c5e2d0@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Yao Thibaut KPEGLI\nÉtablissement : Université de Pau\, TREE\nMots-clés : économie comportementale et expérimentale \; économie du risque\, de l'ambiguïté et des croyances \; économétrie appliquée \; pauvreté et inégalités \; économie de la santé \; finance\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270202T101500Z
+SUMMARY:GAEL — économie comportementale et expérimentale \; économie du risque\, de l'ambiguïté et des croyances \; économétrie appliquée \; pauvreté et inégalités \; économie de la santé \; finance
+UID:9501a6b59d129e2fa21afa81@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Sayan MUKHERJEE\nÉtablissement : GAEL\nMots-clés : théorie de la décision\, données économiques\, modélisation\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261013T091500Z
+SUMMARY:GAEL — théorie de la décision\, données économiques\, modélisation
+UID:30f9a6ebfdf6ddde4ce1c68d@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Nadia BURANI\nÉtablissement : Université de Bologne\nMots-clés : théorie microéconomique\, sélection et appariement\, asymétrie d'information\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261217T101500Z
+SUMMARY:GAEL — théorie microéconomique\, sélection et appariement\, asymétrie d'information
+UID:efcb4d75728cda469a93c39d@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Oliver VANDEN EYNDE\nÉtablissement : PSE\nMots-clés : analyse économique des conflits violents\, sécurité et organisation des forces militaires\, pays en développement\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270401T091500Z
+SUMMARY:GAEL — analyse économique des conflits violents\, sécurité et organisation des forces militaires\, pays en développement
+UID:55922ee46c3c63dbd2beaa4d@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Timothy CASON\nÉtablissement : Université Purdue (Indiana\, États-Unis)\nMots-clés : économie expérimentale\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261103T101500Z
+SUMMARY:GAEL — économie expérimentale
+UID:cc65c26cf5b2a7516ad7a542@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Ahmed TRITAH\nÉtablissement : Université de Poitiers\nMots-clés : économie du travail\, migrations et politiques publiques\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270128T101500Z
+SUMMARY:GAEL — économie du travail\, migrations et politiques publiques
+UID:4b6e12a4bfdc6169df01579f@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Malka GUILLOT\nÉtablissement : GAEL\nMots-clés : économie politique\, économie publique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261117T101500Z
+SUMMARY:GAEL — économie politique\, économie publique
+UID:f7d6e1d29206f00cf5a1fa55@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Loïc HENRY\nÉtablissement : Paris Dauphine\nMots-clés : analyse économique du changement climatique\, adaptation et atténuation des émissions de gaz à effet de serre dans le secteur agricole\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270429T091500Z
+SUMMARY:GAEL — analyse économique du changement climatique\, adaptation et atténuation des émissions de gaz à effet de serre dans le secteur agricole
+UID:1f840a85d98bda4fd00c2976@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Katrin MILLOCK\nÉtablissement : PSE\nMots-clés : migrations (internes/internationales)\, changement climatique\, désastres naturels et adaptation climatique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270107T101500Z
+SUMMARY:GAEL — migrations (internes/internationales)\, changement climatique\, désastres naturels et adaptation climatique
+UID:342e8703767061332794265b@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Lionel NESTA\nÉtablissement : Université Côte d'Azur\, CREDEG\nMots-clés : stratégies des entreprises\, innovation et enjeux de productivité en Europe\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270311T101500Z
+SUMMARY:GAEL — stratégies des entreprises\, innovation et enjeux de productivité en Europe
+UID:5a744e20fa38d3f42cce938f@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Astrid HOPFENSITZ\nÉtablissement : EM Lyon business school\nMots-clés : psychologie comportementale ou expérimentale\, sciences de la décision\, économie\, émotions\, altruisme\, économie comportementale\, prise de décision\, économie expérimentale\, biens publics\, confiance\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270527T091500Z
+SUMMARY:GAEL — psychologie comportementale ou expérimentale\, sciences de la décision\, économie\, émotions\, altruisme\, économie comportementale\, prise de décision\, économie expérimentale\, biens publics\, confiance
+UID:91c72b15725b1fbeb3768b0a@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Marie ANDREESCU\nÉtablissement : PSE\nMots-clés : inégalités de revenus\, de travail et d'éducation\, notamment en Europe de l'Est\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261008T091500Z
+SUMMARY:GAEL — inégalités de revenus\, de travail et d'éducation\, notamment en Europe de l'Est
+UID:1f623717956c0a0583297e5b@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Martin OBRADOVITS\nÉtablissement : Département d'Economie\, Université Johannes-Kepler Linz\nMots-clés : économie industrielle et stratégie de prix\n\nRésumé :\nConsumers increasingly care about the environmental and social responsibility of the production processes used by firms\, yet these processes often remain unobservable\, even after consumption. We develop a simple model in which firms select either a green or a brown production technology before competing and signaling through prices. Firms observe each other's production choices\, while consumers observe only prices. We show that\, in the payoff-dominant equilibrium\, prices signal when at least one firm produces green\, avoiding Bertrand competition. Counterintuitively\, raising consumers' environmental concerns or eliminating the information asymmetry may discourage green production and reduce welfare. Le séminaire a lieu à 11h15\, au GAEL. Date Le 10 septembre 2026 Localisation Complément lieu salle 227 Imprimer Partager Partager sur Facebook Partager sur LinkedIn Partager l'URL de cette page Publié le 4 septembre 2026 Mis à jour le 4 septembre 2026 🔵 Laboratoire GAEL 1241 rue des Résidences 38400 Saint-Martin-d'Hères 04 76 74 29 26 - gael-admin@inrae.fr 🔵 Pour joindre la plateforme d'économie expérimentale : gael-ecoexp@univ-grenoble-alpes.fr Menu footer Contact Plan du site Crédits Mentions légales Données personnelles Gestion des cookies Accessibilité : non conforme Se connecter Suivez-nous ! Facebook LinkedIn\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/martin-obradovits-department-deconomie-universite-johannes-kepler-linz
+DURATION:PT1H15M
+LOCATION:GAEL\, salle 227
+DTSTART:20260910T091500Z
+SUMMARY:GAEL — Sustainable Production Choices and Price Signaling
+UID:88940fc9bf0b2dfbcad923b6@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/martin-obradovits-department-deconomie-universite-johannes-kepler-linz
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Clémence TRICAUD\nÉtablissement : CNRS\nMots-clés : économie publique\, économie politique\, économie urbaine\, microéconomie appliquée\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270211T101500Z
+SUMMARY:GAEL — économie publique\, économie politique\, économie urbaine\, microéconomie appliquée
+UID:ee868343c176bd8983246b1e@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Matthieu STIGLER\nÉtablissement : Université de Genève\nMots-clés : économie environnementale\, changement climatique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270513T091500Z
+SUMMARY:GAEL — économie environnementale\, changement climatique
+UID:963617ff14fc8b10ccfd28d8@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Romain ESPINOSA\nÉtablissement : CNRS - CIRED\nMots-clés : économie du bien-être animal\, des régimes végétaux et de l'environnement\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261105T101500Z
+SUMMARY:GAEL — économie du bien-être animal\, des régimes végétaux et de l'environnement
+UID:f8a556d35eb6a27bf3ce92eb@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Petros SEKERIS\nÉtablissement : TBS\nMots-clés : économie des conflits\, économie politique et théorie des jeux\, ressources naturelles et violences\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270408T091500Z
+SUMMARY:GAEL — économie des conflits\, économie politique et théorie des jeux\, ressources naturelles et violences
+UID:ef56de067b6f1d4f50eabf4d@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Charlotte SAUCET\nÉtablissement : Paris 1\nMots-clés : expérimentations en ligne à grande échelle et biais cognitifs (mémoire motivée\, scepticisme\, amnésie éthique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261119T101500Z
+SUMMARY:GAEL — expérimentations en ligne à grande échelle et biais cognitifs (mémoire motivée\, scepticisme\, amnésie éthique
+UID:3dedafb99aaa5f4facea870d@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Zhaoxia LIU\nÉtablissement : GAEL\nMots-clés : effets de pairs\, chercheurs\, durabilité\, comportements\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270112T101500Z
+SUMMARY:GAEL — effets de pairs\, chercheurs\, durabilité\, comportements
+UID:da4f21993c71d132bfc2ce5f@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Sébastien MASSONI\nÉtablissement : BETA\nMots-clés : économie expérimentale et comportementale\, théorie de la décision\, sciences cognitives et économie publique appliquée\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261112T101500Z
+SUMMARY:GAEL — économie expérimentale et comportementale\, théorie de la décision\, sciences cognitives et économie publique appliquée
+UID:e83bf4e3ed52cdf214712df4@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Morgane GUIGNARD\nÉtablissement : DIW\nMots-clés : organisation industrielle\, politique de la concurrence\, innovation\, chaîne d'approvisionnement\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270325T101500Z
+SUMMARY:GAEL — organisation industrielle\, politique de la concurrence\, innovation\, chaîne d'approvisionnement
+UID:1b007531fe34c37e9798e51f@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Karl HAUSER\nÉtablissement : GAEL\nMots-clés : labels\, nutrition\, consommation\, politiques publiques\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20260908T091500Z
+SUMMARY:GAEL — labels\, nutrition\, consommation\, politiques publiques
+UID:1200d3875fdfaf74788fb358@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Antoine DECHEZLEPRETRE\nÉtablissement : OECD\nMots-clés : innovation\, transition verte\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270427T091500Z
+SUMMARY:GAEL — innovation\, transition verte
+UID:fb4e0e91db3de967583e198c@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Tom LANE\nÉtablissement : Université de Newcastle\nMots-clés : économie comportementale et expérimentale\, discrimination économique\, normes sociales\, économie de l’information\, inégalités\, bonheur\, économie politique\, IA\, effets de la culture et de la religion sur le comportement économique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270520T091500Z
+SUMMARY:GAEL — économie comportementale et expérimentale\, discrimination économique\, normes sociales\, économie de l’information\, inégalités\, bonheur\, économie politique\, IA\, effets de la culture et de la religion sur le comportement économique
+UID:626a6c4779ba94c644f5952b@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Jérémy LAURENT-LUCCHETTI\nÉtablissement : Université de Genève\nMots-clés : économie politique\, environnementale et du développement\, conflits civils et les inégalités éducatives\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270304T101500Z
+SUMMARY:GAEL — économie politique\, environnementale et du développement\, conflits civils et les inégalités éducatives
+UID:8f2139706c5529bee83eeeea@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Marie-Louise VIERØ\nÉtablissement : Université d'Aarhus\nMots-clés : théorie des décisions\, microéconomie théorique et incorporation de l'inconscience et de la prise de conscience dans les modèles économiques\n\nRésumé :\nWe develop an infinite-horizon model of self-control in which willpower is a finite stock shaped by past temptation. Its upper bound is distinct from the range of current temptation shortfalls: the primitive domain contains temptations strong enough to exceed maximal willpower\, even though the constraint may be slack on many decision problems. Commitment devices that implement the same act can have different continuation values because they generate different temptation shortfalls and hence different future stocks of willpower. In an exercise application\, today's temptation exposure shapes tomorrow's capacity for self-control\, so childhood external control can alter the path of later autonomy. In a stationary saving application\, willpower places an endogenous upper bound on sustainable liquid saving\; when this bound binds\, the stationary interest rate is pinned down by sustainable temptation rather than discounting. We axiomatize the representation over intertemporal problems with self-discretion and external control. Le séminaire a lieu à 11h15\, au GAEL. Date Le 1 octobre 2026 Localisation Complément lieu salle 227 Imprimer Partager Partager sur Facebook Partager sur LinkedIn Partager l'URL de cette page Publié le 25 septembre 2026 Mis à jour le 25 septembre 2026 🔵 Laboratoire GAEL 1241 rue des Résidences 38400 Saint-Martin-d'Hères 04 76 74 29 26 - gael-admin@inrae.fr 🔵 Pour joindre la plateforme d'économie expérimentale : gael-ecoexp@univ-grenoble-alpes.fr Menu footer Contact Plan du site Crédits Mentions légales Données personnelles Gestion des cookies Accessibilité : non conforme Se connecter Suivez-nous ! Facebook LinkedIn\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/marie-louise-viero-professeure-deconomie-luniversite-aarhus
+DURATION:PT1H15M
+LOCATION:GAEL\, salle 227
+DTSTART:20261001T091500Z
+SUMMARY:GAEL — Dynamic Willpower
+UID:bab6f63bf3371c8cc9d77d65@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/marie-louise-viero-professeure-deconomie-luniversite-aarhus
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Julien FERNANDEZ\nÉtablissement : GAEL\nMots-clés : comportements alimentaires\, économie expérimentale\, influence sociale\, politiques alimentaires durables\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270309T101500Z
+SUMMARY:GAEL — comportements alimentaires\, économie expérimentale\, influence sociale\, politiques alimentaires durables
+UID:3d8f042e5c2d0d646f52f9fb@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Carole TREIBICH\nÉtablissement : GAEL\nMots-clés : économie de la santé\, économie du développement\, économie comportementale\, évaluation des politiques publiques\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261124T101500Z
+SUMMARY:GAEL — économie de la santé\, économie du développement\, économie comportementale\, évaluation des politiques publiques
+UID:b803c73ca4adb5027c393e01@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Till WEBER\nÉtablissement : University de Newcastle\, Business School\nMots-clés : économie comportementale et expérimentale\, étude de la coopération humaine\, application des normes et analyse des différences interculturelles en matière de prise de décision\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270121T101500Z
+SUMMARY:GAEL — économie comportementale et expérimentale\, étude de la coopération humaine\, application des normes et analyse des différences interculturelles en matière de prise de décision
+UID:3087ce438637d53460248970@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Jean-Christophe POUDOU\nÉtablissement : Université de Montpellier\, Montpellier recherche en économie\nMots-clés : énergie\, ressources naturelles\, organisation industrielle\, R&D et innovation\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270114T101500Z
+SUMMARY:GAEL — énergie\, ressources naturelles\, organisation industrielle\, R&D et innovation
+UID:708d444c8e687d1374ab3e86@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Itzhak GILBOA\nÉtablissement : HEC Paris\nMots-clés : microéconomie\, théorie de la décision\, théorie des jeux\, psychologie et économie\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270323T101500Z
+SUMMARY:GAEL — microéconomie\, théorie de la décision\, théorie des jeux\, psychologie et économie
+UID:15d850b7a9c187b047f8453e@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Pauline PEDEHOUR\nÉtablissement : Université d’Angers\, laboratoire GRANEM\nMots-clés : économie rurale et gestion de l'eau\, assurances vertes pour la réduction des pesticides en viticulture\n\nRésumé :\nReal-time feedback technologies\, which provide households with personalized data on their consumption\, are becoming increasingly widespread and expose households to multiple social comparisons. This study examines whether delivering such feedback. Le séminaire a lieu à 11h15\, au GAEL. Date Le 24 septembre 2026 Localisation Complément lieu salle 227 Imprimer Partager Partager sur Facebook Partager sur LinkedIn Partager l'URL de cette page Publié le 16 septembre 2026 Mis à jour le 16 septembre 2026 🔵 Laboratoire GAEL 1241 rue des Résidences 38400 Saint-Martin-d'Hères 04 76 74 29 26 - gael-admin@inrae.fr 🔵 Pour joindre la plateforme d'économie expérimentale : gael-ecoexp@univ-grenoble-alpes.fr Menu footer Contact Plan du site Crédits Mentions légales Données personnelles Gestion des cookies Accessibilité : non conforme Se connecter Suivez-nous ! Facebook LinkedIn\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/pauline-pedehour-maitre-conferences-luniversite-dangers-et-chercheur-au-granem
+DURATION:PT1H15M
+LOCATION:GAEL\, salle 227
+DTSTART:20260924T091500Z
+SUMMARY:GAEL — Meters Matter: Unpacking Interactions Between Norms and Prices
+UID:4e6b512936a08a8e2bb16398@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/pauline-pedehour-maitre-conferences-luniversite-dangers-et-chercheur-au-granem
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Antoine DUBUS\nÉtablissement : ETH Zürich\nMots-clés : économie numérique\, droit de la concurrence et politique de la concurrence\, marchés des données et protection de la vie privée des consommateurs\, écosystèmes de plateformes\, adoption des nouvelles technologies\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270318T101500Z
+SUMMARY:GAEL — économie numérique\, droit de la concurrence et politique de la concurrence\, marchés des données et protection de la vie privée des consommateurs\, écosystèmes de plateformes\, adoption des nouvelles technologies
+UID:44872b0a5b2ef414b913c450@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Laura WANGEN\nÉtablissement : GAEL\nMots-clés : énergie\, communautés\, coûts\, optimisation\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261208T101500Z
+SUMMARY:GAEL — énergie\, communautés\, coûts\, optimisation
+UID:4187feb3eb3b97be24ab5d70@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Valentin BELLASSEN\nÉtablissement : INRAE\, UMR CESAER\nMots-clés : environnement\, climat\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261127T101500Z
+SUMMARY:GAEL — environnement\, climat
+UID:303f18083c0d7738bf1ea2bb@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Béatrice CHERRIER\nÉtablissement : ENSAE - CREST\nMots-clés : modèles économiques post-Seconde Guerre mondiale et de leur ancrage intellectuel\, historique et politique\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261210T101500Z
+SUMMARY:GAEL — modèles économiques post-Seconde Guerre mondiale et de leur ancrage intellectuel\, historique et politique
+UID:2f9e966ed634752d377b7f24@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Clara JENFT\nÉtablissement : GAEL\nMots-clés : gestes individuels\, climat\, actions\, écologie\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270406T091500Z
+SUMMARY:GAEL — gestes individuels\, climat\, actions\, écologie
+UID:4998053bee080e8103cba19c@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Eugenio VERRINA\nÉtablissement : Université Lumière Lyon 2\, GATE\nMots-clés : économie expérimentale et comportementale\, raisonnement motivé et normes sociales\n\nRésumé :\nSelection neglect and correlation neglect\, i.e.\, the failure to account for selection and correlation in the information one receives\, lead to biased beliefs and are two key drivers behind belief polarization. Social identity is often embedded in environments with selected and correlated signals\, with echo chambers as a prime example. In these contexts\, people inside one’s echo chamber can be perceived as part of one's in-group\, e.g.\, because of a shared political affiliation\, while people outside one's echo chamber can be perceived as part of one's out-group. We study how the combination of social identity and selection neglect or correlation neglect affects belief formation. We design a novel experimental paradigm where receivers guess a randomly-generated number based on the estimates of multiple senders. We manipulate i) whether the signal structure can induce selection neglect or correlation neglect\, and ii) the presence of social identities. We find that selection neglect is exacerbated when the omitted signals are from out-group senders. In contrast\, if the omitted signals are from in-group senders\, subjects become better at accounting for selection. Similarly\, correlation neglect worsens when in-group signals are correlated\, while it improves when correlation is on the out-group. Moreover\, we show that social identity alone causes no bias\, suggesting it is the combination of selection neglect or correlation neglect with social identity that drives our results. Finally\, we provide some evidence for the mechanisms underlying our results. Our findings offer insights into the determinants of polarization and have important implications for the design of information structure and of policies aimed at reducing it. Le séminaire a lieu à 11h15\, au GAEL. Date Le 17 septembre 2026 Localisation Complément lieu salle 227 Imprimer Partager Partager sur Facebook Partager sur LinkedIn Partager l'URL de cette page Publié le 11 septembre 2026 Mis à jour le 16 septembre 2026 🔵 Laboratoire GAEL 1241 rue des Résidences 38400 Saint-Martin-d'Hères 04 76 74 29 26 - gael-admin@inrae.fr 🔵 Pour joindre la plateforme d'économie expérimentale : gael-ecoexp@univ-grenoble-alpes.fr Menu footer Contact Plan du site Crédits Mentions légales Données personnelles Gestion des cookies Accessibilité : non conforme Se connecter Suivez-nous ! Facebook LinkedIn\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/eugenio-verrina-professeur-luniversite-lumiere-lyon-2-et-chercheur-au-gate
+DURATION:PT1H15M
+LOCATION:GAEL\, salle 227
+DTSTART:20260917T091500Z
+SUMMARY:GAEL — Belief formation and social Identity
+UID:13b7cb642fa028705245bdf9@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/eugenio-verrina-professeur-luniversite-lumiere-lyon-2-et-chercheur-au-gate
+END:VEVENT
 END:VCALENDAR
