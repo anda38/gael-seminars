@@ -460,10 +460,10 @@ def event_title(entry: ProgrammeEntry, detail: DetailPage | None) -> str:
       3. speaker name
     """
     if detail and detail.title:
-        return f"GAEL — {detail.title}"
+        return detail.title
     if entry.keywords and "venir" not in ascii_key(entry.keywords):
-        return f"GAEL — {entry.keywords}"
-    return f"GAEL — {entry.speaker}"
+        return entry.keywords
+    return entry.speaker
 
 
 def build_event(entry: ProgrammeEntry, detail: DetailPage | None) -> Event:
