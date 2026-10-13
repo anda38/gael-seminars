@@ -65,6 +65,15 @@ UID:30f9a6ebfdf6ddde4ce1c68d@gael-seminars
 URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/reporte-seminaire-interne-sayan-murkherjee-chercheur-post-doc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Nicolas PASQUIER\nÉtablissement : GAEL\nMots-clés : économie industrielle\, économie numérique\, économie agricole\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20261110T101500Z
+SUMMARY:économie industrielle\, économie numérique\, économie agricole
+UID:0df3f896d36e99ac9ad94ca6@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Intervenant·e : Nadia BURANI\nÉtablissement : Université de Bologne\nMots-clés : théorie microéconomique\, sélection et appariement\, asymétrie d'information\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
 DURATION:PT1H15M
 LOCATION:GAEL\, Université Grenoble Alpes
@@ -128,6 +137,15 @@ UID:342e8703767061332794265b@gael-seminars
 URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Sergei SCHAUB\nÉtablissement : Agroscope\nMots-clés : économnie agricole\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270603T091500Z
+SUMMARY:économnie agricole
+UID:a3996695e63b1bd2f4b75911@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Intervenant·e : Lionel NESTA\nÉtablissement : Université Côte d'Azur\, CREDEG\nMots-clés : stratégies des entreprises\, innovation et enjeux de productivité en Europe\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
 DURATION:PT1H15M
 LOCATION:GAEL\, Université Grenoble Alpes
@@ -153,6 +171,15 @@ DTSTART:20261008T091500Z
 SUMMARY:Do you need an extra applicant? Evidence from quasi-random caseworker assignment
 UID:1f623717956c0a0583297e5b@gael-seminars
 URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/seminaire-annule-marie-andreescu-doctorante-paris-school-economics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Sayan MUKHERJEE\nÉtablissement : GAEL\nMots-clés : théorie de la décision\, données économiques\, modélisation\n\nRésumé :\nWe study a finite population of optimists and pessimists who interact in a two-action global game under ambiguity about the fundamentals. We characterize the set of Choquet-Nash equilibria of the game when players evaluate their actions using neo-additive capacities. In particular\, we show that six types of equilibria can arise: complete investment (CIE)\, complete abstention (CAE)\, segregation (SE)\, optimistic mixing (OME)\, pessimistic mixing (PME)\, and mixed (ME). We then introduce the notion of a Choquet-logit Markov chain derived from the logit best-response protocol in the underlying global game. We show that when ambiguity is sufficiently high\, the unique invariant measure of this chain concentrates\, in the small-noise limit\, only on CIE\, CAE\, or SE\, depending on the effective fundamentals for optimists and pessimists. We also establish that when objective information about the fundamental arrives\, the invariant measure concentrates\, under vanishing ambiguity and in the small-noise limit\, only on CIE or CAE\, the two coordination equilibria of the game\, depending on the value of the true mean of the fundamental. Le séminaire a lieu à 11h30\, au GAEL. Date Le 13 octobre 2026 Localisation Complément lieu salle 227 Imprimer Partager Partager sur Facebook Partager sur LinkedIn Partager l'URL de cette page Publié le 9 octobre 2026 Mis à jour le 12 octobre 2026 🔵 Laboratoire GAEL 1241 rue des Résidences 38400 Saint-Martin-d'Hères 04 76 74 29 26 - gael-admin@inrae.fr 🔵 Pour joindre la plateforme d'économie expérimentale : gael-ecoexp@univ-grenoble-alpes.fr Menu footer Contact Plan du site Crédits Mentions légales Données personnelles Gestion des cookies Accessibilité : non conforme Se connecter Suivez-nous ! Facebook LinkedIn\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage du séminaire : https://gael.univ-grenoble-alpes.fr/fr/actualites/reporte-seminaire-interne-sayan-murkherjee-chercheur-post-doc
+DURATION:PT1H15M
+LOCATION:GAEL\, salle 227
+DTSTART:20270126T103000Z
+SUMMARY:Ambiguity\, Learning\, and Coordination in Global Games
+UID:aef10410a9c78c6ae189e663@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/actualites/reporte-seminaire-interne-sayan-murkherjee-chercheur-post-doc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Intervenant·e : Martin OBRADOVITS\nÉtablissement : Département d'Economie\, Université Johannes-Kepler Linz\nMots-clés : économie industrielle et stratégie de prix\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
@@ -269,6 +296,15 @@ LOCATION:GAEL\, Université Grenoble Alpes
 DTSTART:20270304T101500Z
 SUMMARY:économie politique\, environnementale et du développement\, conflits civils et les inégalités éducatives
 UID:8f2139706c5529bee83eeeea@gael-seminars
+URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intervenant·e : Angelo DI CARLO\nÉtablissement : Institut d’ Economie Ecole Supérieure Sant'Anna\, Pise\nMots-clés : finance évolutionniste\, économie comportementale et sélection par le marché\n\nProgramme GAEL : https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0\nPage détaillée : pas encore publiée au moment de la dernière mise à jour.
+DURATION:PT1H15M
+LOCATION:GAEL\, Université Grenoble Alpes
+DTSTART:20270119T101500Z
+SUMMARY:finance évolutionniste\, économie comportementale et sélection par le marché
+UID:b05fbc9b57b92b5e72c45d50@gael-seminars
 URL:https://gael.univ-grenoble-alpes.fr/fr/calendrier-2026-2027-0
 END:VEVENT
 BEGIN:VEVENT
